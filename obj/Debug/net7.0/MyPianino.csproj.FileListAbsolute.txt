@@ -1,0 +1,14 @@
+C:\Users\Fotters\source\repos\MyPianino\bin\Debug\net7.0\MyPianino.exe
+C:\Users\Fotters\source\repos\MyPianino\bin\Debug\net7.0\MyPianino.deps.json
+C:\Users\Fotters\source\repos\MyPianino\bin\Debug\net7.0\MyPianino.runtimeconfig.json
+C:\Users\Fotters\source\repos\MyPianino\bin\Debug\net7.0\MyPianino.dll
+C:\Users\Fotters\source\repos\MyPianino\bin\Debug\net7.0\MyPianino.pdb
+C:\Users\Fotters\source\repos\MyPianino\obj\Debug\net7.0\MyPianino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotters\source\repos\MyPianino\obj\Debug\net7.0\MyPianino.AssemblyInfoInputs.cache
+C:\Users\Fotters\source\repos\MyPianino\obj\Debug\net7.0\MyPianino.AssemblyInfo.cs
+C:\Users\Fotters\source\repos\MyPianino\obj\Debug\net7.0\MyPianino.csproj.CoreCompileInputs.cache
+C:\Users\Fotters\source\repos\MyPianino\obj\Debug\net7.0\MyPianino.dll
+C:\Users\Fotters\source\repos\MyPianino\obj\Debug\net7.0\refint\MyPianino.dll
+C:\Users\Fotters\source\repos\MyPianino\obj\Debug\net7.0\MyPianino.pdb
+C:\Users\Fotters\source\repos\MyPianino\obj\Debug\net7.0\MyPianino.genruntimeconfig.cache
+C:\Users\Fotters\source\repos\MyPianino\obj\Debug\net7.0\ref\MyPianino.dll
